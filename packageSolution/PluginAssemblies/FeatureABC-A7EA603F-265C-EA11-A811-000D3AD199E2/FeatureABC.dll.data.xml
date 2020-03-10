@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PluginAssembly FullName="FeatureABC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f792590206e3544e" PluginAssemblyId="a7ea603f-265c-ea11-a811-000d3ad199e2" CustomizationLevel="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <IsolationMode>2</IsolationMode>
+  <SourceType>0</SourceType>
+  <IntroducedVersion>1.0</IntroducedVersion>
+  <FileName>/PluginAssemblies/FeatureABC-A7EA603F-265C-EA11-A811-000D3AD199E2/FeatureABC.dll</FileName>
+  <PluginTypes>
+    <PluginType AssemblyQualifiedName="FeatureABC.Users.SamplePlugin, FeatureABC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f792590206e3544e" PluginTypeId="ff7c7f7b-265c-ea11-a811-000d3ad199e2" Name="FeatureABC.Users.SamplePlugin">
+      <FriendlyName>FeatureABC.Users.SamplePlugin</FriendlyName>
+    </PluginType>
+  </PluginTypes>
+</PluginAssembly>

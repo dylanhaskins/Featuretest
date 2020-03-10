@@ -1,0 +1,7 @@
+{
+  "target": {
+    "ServerUrl": "https://devopsblog.crm6.dynamics.com",
+    "SolutionName": "Featuretest",
+    "GeoGraphy" :  "AddGeo"
+  }
+}

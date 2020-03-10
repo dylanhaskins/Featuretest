@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Mapping>
+  <FileToFile map="PluginAssemblies\**\Featuretest.dll" to="..\bin\**\Featuretest.dll" />
+  <FileToPath map="WebResources\*.*" to="..\dist\**" />
+  <FileToPath map="WebResources\**\*.*" to="..\dist\**" />
+</Mapping>
