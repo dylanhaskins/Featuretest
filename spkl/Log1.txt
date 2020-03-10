@@ -1,0 +1,4 @@
+12:15:31 am	Deploying Plugins
+12:15:31 am	Searching for plugin config in 'C:\Dev\Repos\dylanhaskins\Featuretest\spkl\..'
+12:15:32 am	Using Config 'C:\Dev\Repos\dylanhaskins\Featuretest'
+12:15:32 am	Checking assembly 'Featuretest.dll' for plugins
